@@ -2,6 +2,8 @@
 
 Digital representation of Circular Economy (CE) data points at the nano level using the Asset Administration Shell (AAS).
 
+> **Important:** The AAS modeling of data points contains some in-progress IDTA submodels, and due to data privacy constraints, it is not possible to publish them at this time. Once the official submodel publication becomes available, the complete AAS modeling of data points will be accessible in this repository.
+
 ## Overview
 
 The transition to a Circular Economy requires structured, interoperable data across product life cycles. The Asset Administration Shell (AAS), as the Industry 4.0 digital representation standard, provides this foundation — yet CE-relevant data points remain insufficiently defined.
